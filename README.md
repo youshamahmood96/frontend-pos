@@ -2,6 +2,8 @@
 
 <a href="https://www.youtube.com/watch?v=ACldPzAjF1Q"> Demo video</a>
 
+You can visit the frontend <a href="https://frontend-pos-yousha.netlify.app/">here</a>
+
 ## Attribution
 
 Sample food photos in this application are downloaded from freepik.com accounts listed below:
