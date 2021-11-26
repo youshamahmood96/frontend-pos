@@ -1,5 +1,5 @@
 # Frontend of a point of sale system
-============
+
 <a href="https://www.youtube.com/watch?v=ACldPzAjF1Q"> Demo video</a>
 
 ## Attribution
